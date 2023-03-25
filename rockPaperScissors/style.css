@@ -1,0 +1,28 @@
+* {
+  box-sizing: none;
+  margin: none;
+  padding: none;
+}
+
+div {
+  margin: 5% 25%;
+}
+
+.title {
+  align-items: center;
+  margin-left: 10rem;
+}
+
+button {
+  margin-left: 10rem;
+  background: lightblue;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  padding: 1rem;
+}
+
+button:hover {
+  background-color: blue;
+  color: white;
+}
